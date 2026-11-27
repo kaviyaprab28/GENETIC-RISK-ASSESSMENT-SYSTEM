@@ -1,0 +1,68 @@
+Feature,Importance
+num__Symptom 2,0.14169340379057752
+num__Symptom 3,0.1277191281819704
+num__Symptom 1,0.10349708149340871
+num__Symptom 4,0.0998911087023383
+num__Symptom 5,0.06027853501107798
+cat__Inherited from father_Yes,0.05786411947652868
+cat__Genes in mother's side_No,0.04753739122434896
+cat__Genes in mother's side_Yes,0.038517023820318325
+num__White Blood cell count (thousand per microliter),0.03849355195481375
+num__Blood cell count (mcL),0.03325261468800666
+cat__Paternal gene_Yes,0.028765857357820834
+num__Patient Age,0.02677451213632878
+num__Father's age,0.02538986800046849
+cat__Maternal gene_No,0.021453128403445564
+cat__Inherited from father_No,0.02022008578255658
+num__Mother's age,0.02004091985117849
+cat__Maternal gene_Yes,0.014579706646872496
+cat__Paternal gene_No,0.010523157861814321
+num__No. of previous abortion,0.008003275257073677
+cat__H/O substance abuse_No,0.005415976848602362
+cat__Blood test result_inconclusive,0.005374863920529723
+cat__Assisted conception IVF/ART_Yes,0.004234829119258372
+cat__Gender_Male,0.003904667848393903
+cat__H/O radiation exposure (x-ray)_No,0.003549492448658175
+cat__Respiratory Rate (breaths/min)_Normal (30-60),0.0033545214304005104
+cat__H/O serious maternal illness_No,0.003152232650708602
+cat__Blood test result_normal,0.0028170871538325017
+cat__Blood test result_slightly abnormal,0.002734947459683234
+cat__Follow-up_Low,0.0026353468265602497
+cat__H/O radiation exposure (x-ray)_Not applicable,0.002568996350001214
+cat__Birth asphyxia_No,0.002536260059602502
+cat__Birth asphyxia_Yes,0.0024971428981375395
+cat__H/O radiation exposure (x-ray)_Yes,0.0024285012842181594
+cat__Autopsy shows birth defect (if applicable)_Not applicable,0.0023402048977083567
+cat__Place of birth_Home,0.0022251832057581435
+cat__Status_Alive,0.0020305913106480763
+cat__Autopsy shows birth defect (if applicable)_Yes,0.0018904564524850431
+cat__Gender_Ambiguous,0.0018884977951387604
+cat__Follow-up_High,0.0017571859491714366
+cat__Blood test result_abnormal,0.0017284263595641156
+cat__Place of birth_Institute,0.00170887334756204
+cat__H/O substance abuse_Not applicable,0.001671166379789437
+cat__Folic acid details (peri-conceptional)_No,0.001616075636723654
+cat__History of anomalies in previous pregnancies_Yes,0.0015253026518006624
+cat__H/O serious maternal illness_Yes,0.0013291132330759908
+cat__Folic acid details (peri-conceptional)_Yes,0.0012293623294468683
+cat__Assisted conception IVF/ART_No,0.00122872261168649
+cat__Respiratory Rate (breaths/min)_Tachypnea,0.001219763345550499
+cat__H/O radiation exposure (x-ray)_-,0.0011323066953633206
+cat__Birth defects_Singular,0.001029742279911236
+cat__Heart Rate (rates/min_Normal,0.000749689579080361
+cat__Gender_Female,0.0
+cat__Parental consent_Yes,0.0
+cat__Heart Rate (rates/min_Tachycardia,0.0
+cat__Status_Deceased,0.0
+num__Test 1,0.0
+num__Test 5,0.0
+num__Test 2,0.0
+num__Test 3,0.0
+num__Test 4,0.0
+cat__Birth asphyxia_Not available,0.0
+cat__Autopsy shows birth defect (if applicable)_No,0.0
+cat__Birth asphyxia_No record,0.0
+cat__H/O substance abuse_Yes,0.0
+cat__H/O substance abuse_-,0.0
+cat__Birth defects_Multiple,0.0
+cat__History of anomalies in previous pregnancies_No,0.0
